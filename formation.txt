@@ -1,0 +1,51 @@
+git init 
+
+git add .
+
+git commit -m "your message"
+
+if you made any wrong after commit there are two solution to resolve this problem
+   
+    -->git commit --hard (id) :this delete all the modication
+    -->git commit --soft (id) :return ,but not delete the modication
+
+after that :
+
+git commit --ammend --no-edit :do not create a new commit ,just add to the preveous commit
+
+git show (id:this id of the commit)
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Branch :
+
+git branch :see all the branch disponible
+
+create new branch and switch to the new branch :
+
+git checkout -b name_branch
+
+
+for exemple when you create a new branch based to the branch master .
+
+when you are satistifed and want to megere it with branch master
+
+you need to do :
+
+-git add .
+-git commit -m 'your message'
+
+after that you need to switch to the master
+
+-git checkout master
+-git merge your_branch
+
+
+--->delete branch there are two way
+
+when you want to delete a branch that you merge to other branch you use 
+-git branch -d branch_you_want_to_delete
+
+when you want to delete a branch but never used  
+-git branch -D branch_you_want_to_delete
