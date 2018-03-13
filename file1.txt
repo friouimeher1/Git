@@ -1,77 +1,10 @@
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher friouimeher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher friouimeher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher friouimeher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
-meher frioui
+git init 
+
+git add .
+
+git commit -m "your message"
+
+if you made any wrong after commit there are two solution to resolve this problem
+   
+    -->git commit --hard (id) :this delete all the modication
+    -->git commit --soft (id) :return ,but not delete the modication
